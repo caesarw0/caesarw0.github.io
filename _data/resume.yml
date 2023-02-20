@@ -1,0 +1,141 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Caesar Wong"
+  label: "Software Engineer & Data Scientist"
+  picture: "assets/img/icon.jpg"
+  email: "caesar.wongw@gmail.com"
+  phone: ""
+  website: "https://caesarw0.github.io/"
+  summary: >
+    A driven and innovative software engineer with a passion for developing cutting-edge solutions utilizing AI and machine learning technologies. 
+
+    Transformed compliance at Societe Generale with an advanced AI tool and created a PowerBI dashboard for remote communication. Successfully applied MLOps and designed ETL pipelines at IBM. 
+
+    Skilled in Python, AWS, Machine Learning, and Deep Learning.
+
+    Constantly seeking new challenges to grow and make an impact.
+  location:
+    address: ""
+    postalCode: ""
+    city: "Vancouver"
+    countryCode: "CA"
+    region: "British Columbia"
+  profiles:
+    - network: "Github"
+      username: "caesarw0"
+      url: "https://github.com/caesarw0"
+    - network: "LinkedIn"
+      username: "caesar-wong"
+      url: "https://www.linkedin.com/in/caesar-wong"
+    - network: "Kaggle"
+      username: "csarwong"
+      url: "https://www.kaggle.com/csarwong"
+work:
+  - company: "Société Générale"
+    position: "Software Engineer"
+    website: "https://www.societegenerale.com/en"
+    startDate: "2022-02-01"
+    endDate: "2022-07-01"
+    summary: >
+      Tools/Skills - Python/OCR/NER/PowerBI
+    highlights:
+      - "Developed an AI recognition tool using deep learning, OCR, and NER model to parse bank broker 
+      statements, reducing manual effort for data entry by <b>70%</b> for the compliance team."
+      - "Built a PowerBI dashboard and data computation pipeline for Work-From-Home (WFH) communication 
+      surveillance."
+  - company: "IBM"
+    position: "Consulting Associate"
+    website: "https://www.ibm.com/hk-en"
+    startDate: "2021-06-01"
+    endDate: "2022-01-01"
+    summary: >
+      Tools/Skills - Python/Airflow/PySpark/AWS (DynamoDB, S3, Glue, EMR, Redshift)/Informatica
+    highlights:
+      - "Applied MLOps to manage machine learning models and built data models for big data platform with 
+      AWS."
+      - "Developed ETL pipelines for data migration and engaged in all project stages, including requirement 
+gathering, implementation, and UAT."
+  - company: "The Government of Hong Kong"
+    position: "Web Developer Summer Intern"
+    website: "https://www.afcd.gov.hk/english/index.html"
+    startDate: "2020-06-01"
+    endDate: "2020-08-31"
+    summary: >
+      Tools/Skills - PHP/HTML/CSS/Javascript/ArcGIS API/MySQL
+    highlights:
+      - "Developed a web application for the internal recording system, involved in both front-end & back-end 
+design, implementation, and testing."
+      - "Educated non-technical clients to adapt to the new online recording system as a one-man team."
+  - company: "The Hong Kong Polytechnic University"
+    position: "Research Assistant"
+    website: "https://www.polyu.edu.hk/comp/"
+    startDate: "2019-09-01"
+    endDate: "2020-06-01"
+    summary: >
+      Tools/Skills - Python/Java/Wireshark
+    highlights:
+      - "Assisted in a <a href='https://consumer.huawei.com/en/'>Huawei</a> research project on “Abnormal Mobile Traffic Detection using Machine Learning 
+Methods: A Survey”, performing data collection, preprocessing and literature review."
+
+education:
+  - institution: "University of British Columbia"
+    area: "Data Science"
+    studyType: "Masters"
+    startDate: "2022-09-01"
+    endDate: "2023-06-30"
+    gpa: "3.8"
+    courses: ""
+  - institution: "The Hong Kong Polytechnic University"
+    area: "Computing"
+    studyType: "Bachelor"
+    startDate: "2017-09-01"
+    endDate: "2021-06-30"
+    gpa: "3.8"
+    courses: ""
+awards:
+  - title: "<a href='https://drive.google.com/file/d/1oUOgQXB7LT3vp9AWZq0TVNrfYXrnMMkl/view'>3rd Place in Reshaping Retail Canadian Business Technology Competition</a>"
+    date: "2023-01-31"
+    awarder: "<a href='https://www.facebook.com/BOLTMcGill/'>BOLT McGill</a>"
+    summary: ""
+skills:
+  - name: "Data Science"
+    level: "Master"
+    keywords:
+      - "Python"
+      - "scikit-learn"
+      - "pytorch"
+      - "tensorflow"
+      - "opencv"
+  - name: "DBMS"
+    level: "Master"
+    keywords:
+      - "MySQL"
+      - "postgresql"
+      - "mongodb"
+      - "SQLite"
+      - "Oracle Database"
+  - name: "Web Development"
+    level: "Master"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+      - "PHP"
+  
+languages:
+  - language: "English"
+    fluency: "Fluent"
+  - language: "Cantonese"
+    fluency: "Native Speaker"
+  - language: "Mandarin"
+    fluency: "Fluent"
+interests:
+  - name: "Sports"
+    keywords:
+      - "Soccer ⚽"
+      - "Hiking 🌄"
+  - name: "Arts"
+    keywords:
+      - "Painting 🎨"
