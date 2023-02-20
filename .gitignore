@@ -50,5 +50,5 @@ _zip
 /dist
 /build
 
-/assets/js/*hydejack-*
-/_sass/*/__*__/*
+# /assets/js/*hydejack-*
+# /_sass/*/__*__/*
