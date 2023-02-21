@@ -13,7 +13,7 @@ selected_projects:
     - _projects/crowd_viewer.md
 projects_page: projects.md
 selected_posts:
-    - blog/_posts/2023-02-01-Table_Reco.md
+    - blog/_posts/2023-01-22-Table_Reco.md
 posts_page: /blog/
 featured: false
 ---
