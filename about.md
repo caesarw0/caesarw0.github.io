@@ -2,7 +2,7 @@
 layout: about
 title: >
   > whoami
-image: /assets/img/logo.png
+image: /assets/img/icon.jpg
 description: >
   A description about myself.
 hide_description: true

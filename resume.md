@@ -4,6 +4,7 @@ title:  My Résumé
 permalink: /resume/
 description: >
   My Résumé
+hide_description: true
 featured:        true
 left_column:
   - work
