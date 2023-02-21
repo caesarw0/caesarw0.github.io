@@ -2,7 +2,9 @@
 layout: post
 title: Table Recognition - From OCR to Deep Learning
 image: /assets/img/blog/Table_Reco/img1_top.png
-# description: >
+description: >
+    Discussing Evolution & Techniques on Table Recognition
+hide_description: true
 tags: [Deep Learning, OCR]
 ---
 
