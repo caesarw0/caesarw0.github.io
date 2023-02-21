@@ -22,7 +22,7 @@
         {% assign last_update = post.last_modified_at | date:post_format %}
 
         {% if post_date != last_update %}
-          <a href="https://github.com/caesarw0/caesarw0.github.io/commits/main/{{ post.path }}" target="_blank">Updated</a>: {{ last_update }}
+          <a href="https://github.com/{{ site.data.strings.github_name }}/{{ site.data.strings.repo_name }}/commits/main/{{ post.path }}" target="_blank">Updated</a>: {{ last_update }}
         {% else %}
           Posted: <time datetime="{{ post.date | date_to_xmlschema }}">{{ post_date }}</time>
         {% endif %}

@@ -8,6 +8,11 @@
 # but note that this may not work in all situations,
 # especially for languages that differ significantly from English.
 
+# website_url
+website_url:          https://caesarw0.github.io
+github_name:          caesarw0
+repo_name:            caesarw0.github.io
+
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
