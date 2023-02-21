@@ -55,10 +55,6 @@ menu:
     url:               /resume/
   - title:             About
     url:               /about/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             Blog
     url:               /blog/
 
