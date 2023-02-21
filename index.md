@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Welcome 🎉
+title: Hello 👋
 description: >
  Welcome Page
 last_modified_at: 2023-02-19
@@ -16,11 +16,11 @@ posts_page: /blog/
 featured: false
 ---
 
-<img src="assets/img/cartoon_1.png" style="border-radius:50%; width:300px" class='center_element'>
+{:.center_element}
+![icon_1](assets/img/icon1.jpg)
 
-
-I am Caesar Wong and currently  pursuing a Master's degree in Data Science at [UBC](https://www.ubc.ca/), 
-and I'm excited to bring my expertise to the table. 
+I am Caesar Wong and currently  pursuing a Master's degree in Data Science at [UBC](https://www.ubc.ca/),
+and I'm excited to bring my expertise to the table.
 As a former software engineer and technical consultant, I'm passionate about exploring the cutting-edge of AI and data science, with a focus on creating innovative solutions that help businesses stay ahead of the curve.
 
 On this website, you can discover some of my featured projects and blog posts on software engineering and data sciences. You can also check out my resume to get a better understanding of my experience and skills.
@@ -39,3 +39,11 @@ I hope you find my work inspiring and informative, and I look forward to connect
 [My Résumé]: resume/
 [blog]: blog/
 [About]: about/
+
+## Latest Projects
+
+<!--projects-->
+
+## Latest Posts
+
+<!--posts-->

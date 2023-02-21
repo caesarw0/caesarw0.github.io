@@ -43,8 +43,14 @@ html {
 
 
 .center_element {
+  
+  
+  
+}
+.center_element img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 150px;
+  border-radius:50%;
 }
