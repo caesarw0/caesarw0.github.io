@@ -24,6 +24,10 @@
   margin-right: -1rem;
 }
 
+.message li{
+  margin: 10px;
+}
+
 .note-sm {
   @extend .message;
   background: transparent;
@@ -84,7 +88,7 @@
   border: 1px solid transparent;
   border-radius: 4px;
   &:before{
-    content: "📑 NOTE: ";
+    content: "";
     font-weight: bold;
   }
 }
