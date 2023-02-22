@@ -18,8 +18,28 @@ featured:    false
 ---
 
 
+## Introduction
+
+This is a business case project organized by BOLT McGill, where we are thrilled to win the 3rd place.
+
+This is a team effort.
+
 ![one_page](/assets/img/projects/smart_grocery/smart_grocery_one_page.jpg)
 
-
-
 [Slide Deck URL](https://drive.google.com/file/d/1doH22HquOqQTEWPGdGLo9M56w-Vet0I1/view?usp=share_link)
+
+## Certificate
+
+![Certificate](/assets/img/projects/smart_grocery/BOLT_2023_3rd_Place_Team_8_Certificate.png)
+
+## Solutions
+
+3 functions
+
+### Special Credits
+
+Special thanks to my talented and supportive teammates 💯:
+
+- [Manya](https://ca.linkedin.com/in/manya-narwal)
+- [Zhi Xi](https://ca.linkedin.com/in/zhi-xi-chen-30441463)
+- [Luciana](https://ca.linkedin.com/in/luciana-decormis-aa2a53203)
