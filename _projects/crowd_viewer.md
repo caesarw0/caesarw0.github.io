@@ -3,11 +3,11 @@ layout:      project
 title:       Crowd Viewer
 date:        2023-01-01
 image:
-  path:       /assets/img/projects/crowdviewer/overview.png
+  path:       /assets/gif/crowd_viewer_demo.gif
   srcset:
-    1920w:   /assets/img/projects/crowdviewer/overview.png
-    960w:    /assets/img/projects/crowdviewer/overview.png
-    480w:    /assets/img/projects/crowdviewer/overview.png
+    1920w:   /assets/gif/crowd_viewer_demo.gif
+    960w:    /assets/gif/crowd_viewer_demo.gif
+    480w:    /assets/gif/crowd_viewer_demo.gif
 caption:     A Shiny dashboard showing Wifi connection count on campus.
 description: >
   A Shiny dashboard showing Wifi connection count on campus.
@@ -25,8 +25,6 @@ The data dashboard is on Shinyappio.com ([Dashboard URL](https://caesarwong.shin
 ## Dashboard Description
 
 The dashboard is built using R Shiny (web), leaflet (map), and Plotly (data visualization). It provides information about the crowd data in the Hong Kong Polytechnic University with an interactive map. The application covers the Wifi connection data from May 1, 2019 to Oct 31, 2019. The data is taken in a 10 mins intervals per record.
-
-![gif](/assets/gif/crowd_viewer_demo.gif)
 
 ### Overview
 
