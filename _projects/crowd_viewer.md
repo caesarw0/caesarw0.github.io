@@ -26,6 +26,8 @@ The data dashboard is on Shinyappio.com ([Dashboard URL](https://caesarwong.shin
 
 The dashboard is built using R Shiny (web), leaflet (map), and Plotly (data visualization). It provides information about the crowd data in the Hong Kong Polytechnic University with an interactive map. The application covers the Wifi connection data from May 1, 2019 to Oct 31, 2019. The data is taken in a 10 mins intervals per record.
 
+![gif](/assets/gif/crowd_viewer_demo.gif)
+
 ### Overview
 
 ![overview](/assets/img/projects/crowdviewer/overview.png)
