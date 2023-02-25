@@ -10,6 +10,7 @@ hide_image: false
 cover: false
 hide_description: true
 selected_projects: 
+    - _projects/smart_grocery.md
     - _projects/crowd_viewer.md
 projects_page: projects.md
 selected_posts:
