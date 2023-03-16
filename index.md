@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Hello 👋
+title: Hello👋
 description: >
  Welcome Page
 last_modified_at: 2023-02-19
@@ -10,6 +10,7 @@ hide_image: false
 cover: false
 hide_description: true
 selected_projects: 
+    - _projects/techniators_fake_news_detector.md
     - _projects/smart_grocery.md
     - _projects/crowd_viewer.md
 projects_page: projects.md

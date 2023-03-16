@@ -27,10 +27,11 @@ During my undergraduate studies, I worked as a research assistant on a project f
 
 ### Future Direction
 
-My experiences have shown me the power of data-driven decision making, inspiring me to pursue a career in the field.
-With a Masters of Data Science degree almost completed, I am excited to bring my skills and expertise to new opportunities. 
-
 With all of this experience under my belt, I decided to pursue a Masters of Data Science degree to deepen my knowledge and gain more insights into the field. I am set to graduate in June 2023 and am excited about the opportunities that lie ahead.
+
+My experiences have shown me the power of data-driven decision making, inspiring me to pursue a career in the field.
+With a Masters of Data Science degree almost completed, I am excited to bring my skills and expertise to new opportunities.
+
 Thank you for visiting my website, and I hope that you find my work informative and inspiring!
 
 ## Contact

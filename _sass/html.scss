@@ -50,6 +50,15 @@ html {
   border-radius:50%;
 }
 
+// for center image with border-radius
+.center_element_square_radius img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  border-radius:10%;
+}
+
 // for avatar in about page
 .about_avatar{
   float: right;
