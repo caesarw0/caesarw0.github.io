@@ -28,7 +28,7 @@ featured:    false
 
 We are delighted to announce that our team has won the Judges Award and Best Team Goals Presentation in the
 [Hack The Threat 23 Hackathon Competition](https://hackhpc.github.io/HacktheThreat23/)
-organized by [Simon Fraser University]((https://www.sfu.ca/big-data.html)), [Texas Advanced Computing Center](https://www.tacc.utexas.edu/), [Amazon Web Services](https://aws.amazon.com/), and [HackHPC.org](http://hackhpc.org/). This is an incredible achievement that has been made possible by the collaboration and hard work of our team.
+organized by [Simon Fraser University](https://www.sfu.ca/big-data.html), [Texas Advanced Computing Center](https://www.tacc.utexas.edu/), [Amazon Web Services](https://aws.amazon.com/), and [HackHPC.org](http://hackhpc.org/). This is an incredible achievement that has been made possible by the collaboration and hard work of our team.
 
 During  the Hack The Threat 23 Hackathon, our team was challenged to identify and solve data challenges and problems within the scope of cybersecurity, environmental, and social threats. We focused on social threats and developed a fake news detector that uses machine learning (ML) and natural language processing (NLP) to help restore trust in the media.
 
