@@ -15,6 +15,7 @@ selected_projects:
     - _projects/crowd_viewer.md
 projects_page: projects.md
 selected_posts:
+    - blog/_posts/2023-08-03-Postman_API_test.md
     - blog/_posts/2023-04-09-VAR.md
     - blog/_posts/2023-01-22-Table_Reco.md
 posts_page: /blog/
